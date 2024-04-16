@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Exception-in class-learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE3AF55-7965-4F78-9301-9B72D7FD60BD}|Exception-in class-learn\\Exception-in class-learn.csproj|c:\\users\\99455\\source\\repos\\exception-in class-learn\\exception-in class-learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE3AF55-7965-4F78-9301-9B72D7FD60BD}|Exception-in class-learn\\Exception-in class-learn.csproj|solutionrelative:exception-in class-learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Exception-in class-learn\\Exception-in class-learn\\Program.cs",
+              "RelativeDocumentMoniker": "Exception-in class-learn\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Exception-in class-learn\\Exception-in class-learn\\Program.cs",
+              "RelativeToolTip": "Exception-in class-learn\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:30:49Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exception-in class-learn/1.0.0": {
+        "runtime": {
+          "Exception-in class-learn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exception-in class-learn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
